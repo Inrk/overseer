@@ -37,3 +37,4 @@ bot.on('message', function (user, userID, channelID, message, evt) {
          }
      }
 });
+client.log(process.env.NDExOTMxNTU2MTczNTc4MjUx.DWHhuQ.JIflkf9AQeLLs2X-L9RLqsUQktA
